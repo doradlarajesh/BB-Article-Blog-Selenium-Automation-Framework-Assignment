@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BBLogUITests">
+
+	<listeners>
+		<listener class-name="com.bblogautomation.utilities.ReportHelper" />
+	</listeners>
+
+	<test name="Favorite Article Tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.bblogautomation.tests.TC_BBLOG_FA_01" />
+            <class name="com.bblogautomation.tests.TC_BBLOG_FA_02" />
+			<class name="com.bblogautomation.tests.TC_BBLOG_FA_03" />
+			<class name="com.bblogautomation.tests.TC_BBLOG_FA_04" />
+			<class name="com.bblogautomation.tests.TC_BBLOG_FA_05" />
+		</classes>
+
+	</test>
+
+</suite>
