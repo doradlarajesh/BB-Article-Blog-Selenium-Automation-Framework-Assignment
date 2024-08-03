@@ -35,15 +35,15 @@ The subsequent image show the basic structure of the folders and packages that i
 
 Automatically after tests are executed a report which looks as below will be opened in your default browser. Integrated Extent Reports 5 and used their capabilities for generating reports with logs and screenshots in case of failed tests
 
-*Dashboard:*
+***Dashboard:***
 
 ![Screenshot 2024-08-03 192420](https://github.com/user-attachments/assets/86405c4a-269f-4c7a-ae46-2a05ceedc022)
 
-*Individual Test Case Log along with screenshots in base64 format:*
+***Individual Test Case Log along with screenshots in base64 format:***
 
 ![Screenshot 2024-08-03 192752](https://github.com/user-attachments/assets/4d93e0fa-436e-422f-8490-caac0ac067d7)
 
-*Failed Test Case along with screenshots in base64 format:*
+***Failed Test Case along with screenshots in base64 format:***
 
 ![Screenshot 2024-08-03 192909](https://github.com/user-attachments/assets/9af7dfba-f370-4a3d-afcf-c0e6385af45b)
 
