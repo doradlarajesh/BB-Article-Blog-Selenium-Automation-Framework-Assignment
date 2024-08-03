@@ -1,6 +1,7 @@
 # BB Article Blog UI Automation Framework Assignment using Selenium
 
-##**Introduction:**
+## **Introduction:**
+
 This Automation Framework implemented for Bb Blogging website using Selenium + Java with integration of Maven, TestNG and Extent Reports in year 2020.
 
 ##**Module and Test Cases:**
