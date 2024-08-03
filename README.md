@@ -1,13 +1,13 @@
 # BB Article Blog UI Automation Framework Assignment using Selenium
 
-**Introduction:**
+##**Introduction:**
 This Automation Framework implemented for Bb Blogging website using Selenium + Java with integration of Maven, TestNG and Extent Reports in year 2020.
 
-**Module and Test Cases:**
+##**Module and Test Cases:**
 
 Selected ‘Favorite Articles’ module/flow for writing and automating the test cases. Test cases were written in excel (BBlog_FavArticle_TestCases.xlsx) and can be found in ‘Test Artifacts’ folder along with this documentation.
 
-**Dependencies and Plugins Used:**
+##**Dependencies and Plugins Used:**
 
  - Selenium Java 
  - TestNG
@@ -16,13 +16,13 @@ Selected ‘Favorite Articles’ module/flow for writing and automating the test
  - Maven SureFirePlugin
  - Maven Compiler Plugin
 
-**Project Directory Info:**
+##**Project Directory Info:**
 
 The subsequent image show the basic structure of the folders and packages that is followed to design the project
 
 ![image](https://github.com/user-attachments/assets/15f5ba23-f530-4eb6-a9e4-c5519fc6e474)
 
-**How to Run Test Cases:**
+##**How to Run Test Cases:**
 
  1. Running of test cases can be done by following ways, 1. Running via command line after changing directory to 			the folder where this project exists. (preferred way) 
 
@@ -30,7 +30,7 @@ The subsequent image show the basic structure of the folders and packages that i
 
  2. Running each test class or testng.xml by right clicking in eclipse IDE and selecting “run as testNG test”
 
-**Reporting:** 
+##**Reporting:** 
 
 Automatically after tests are executed a report which looks as below will be opened in your default browser. Integrated Extent Reports 5 and used their capabilities for generating reports with logs and screenshots in case of failed tests
 
