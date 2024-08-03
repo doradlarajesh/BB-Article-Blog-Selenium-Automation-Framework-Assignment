@@ -21,3 +21,7 @@ mvnclean install (or) mvn clean verify (or) mvn test
  Automatically after tests are executed a report which looks as below will be opened in your default 
 browser. Integrated Extent Reports 5 and used their capabilities for generating reports with logs and 
 screenshots in case of failed tests
+
+
+
+![image](https://github.com/user-attachments/assets/15f5ba23-f530-4eb6-a9e4-c5519fc6e474)
